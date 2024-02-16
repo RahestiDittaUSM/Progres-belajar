@@ -1,6 +1,6 @@
 # Progres-belajar
 
-**16 Februari 2024 **bold text**<br>
+**16 Februari 2024** <br>
 Belajar Dasar Git dengan GitHub. (Progres 38%)
 * Git dan Github
 * Dasar Git
